@@ -13,7 +13,7 @@ Using K-means clustering, each pixel is assigned to one of *K* centroids, simpli
 - `Image_Compression.ipynb`: Main notebook with code and plots
 - Sample outputs: Compressed posters of *12 Angry Men*, *Birdman*, *Atonement*, and *Devil’s Advocate*
 
-## 🚀 How to Use
+## How to Use
 1. Open the notebook in Google Colab or Jupyter
 2. Upload your own image or use the provided examples
 3. Set your desired number of clusters (K)
@@ -21,7 +21,7 @@ Using K-means clustering, each pixel is assigned to one of *K* centroids, simpli
 
 
 ## 🔗 LinkedIn Post
-Check out the visual results and reflections [here](your-linkedin-post-url)
+Check out the visual results and reflections (linkedin.com/posts/shivang-suman-31b391321_image-compression-with-k-means-today-i-activity-7378877038914555904-0Xmy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFkVYcBqgJbvRGsaq5UhkZiUrdQd1d3rkM)
 
 ---
 
